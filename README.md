@@ -1,1 +1,1 @@
-# VEDA-MiniProject-Chat-QT
+# ChatProgram-QT
